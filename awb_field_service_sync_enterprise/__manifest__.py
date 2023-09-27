@@ -1,6 +1,6 @@
 {
     'name': 'AWB Field ServiceSync',
-    'version': '15.0.0.1',
+    'version': '15.0.0.2',
     'category': 'Projects',
     'summary': 'Field Service Sync From Enterprise to Community',
     'description': """
